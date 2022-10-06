@@ -1,2 +1,2 @@
-wc -c
-9
+#!/bin/bash
+su betty
