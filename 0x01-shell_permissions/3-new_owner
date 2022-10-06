@@ -1,2 +1,2 @@
-sudo chown betty hello
-755
+#!/bin/bash
+sudo chown
