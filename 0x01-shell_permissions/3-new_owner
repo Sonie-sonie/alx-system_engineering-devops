@@ -1,2 +1,2 @@
 #!/bib/bash
-chown
+sudo chown betty hello
