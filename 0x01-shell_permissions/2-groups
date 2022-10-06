@@ -1,2 +1,2 @@
-id . /root@a118cf2a9a73
-uid=0(root) gid=0(root) groups=0(root)
+#!/bin/bash
+id
